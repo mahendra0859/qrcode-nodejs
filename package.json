@@ -1,0 +1,21 @@
+{
+  "name": "qrcode-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Mahendra AR",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.5",
+    "qrcode": "^1.4.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
