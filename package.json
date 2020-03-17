@@ -1,13 +1,23 @@
 {
   "name": "qrcode-node",
   "version": "1.0.0",
-  "description": "",
+  "description": "Create and Read QR Code in Node.js",
   "main": "app.js",
   "scripts": {
     "start": "nodemon app.js"
   },
-  "keywords": [],
-  "author": "Mahendra AR",
+  "keywords": [
+    "NodeJS",
+    "express",
+    "mongoose",
+    "qrcode"
+  ],
+  "homepage": "https://github.com/mahendra0859/qrcode-nodejs#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mahendra0859/qrcode-nodejs"
+  },
+  "author": "Mahendra AR <mahendra0859@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "ejs": "^3.0.1",
